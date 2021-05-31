@@ -109,6 +109,186 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
+    },
+    {
+      "titulo": "Cruella",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-06-03T03:00:00.000Z",
+      "descricao": "A live-action prequel feature film following a young Cruella de Vil.",
+      "nota": 7,
+      "urlIMDb": "https://www.imdb.com/title/tt3228774/?ref_=hm_inth_tt_i_3",
+      "genero": "Comédia",
+      "id": 12
+    },
+    {
+      "titulo": "Cruella",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-06-03T03:00:00.000Z",
+      "descricao": "A live-action prequel feature film following a young Cruella de Vil.",
+      "nota": 7,
+      "urlIMDb": "https://www.imdb.com/title/tt3228774/?ref_=hm_inth_tt_i_3",
+      "genero": "Comédia",
+      "id": 13
+    },
+    {
+      "titulo": "teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "teste123",
+      "nota": 0.2,
+      "urlIMDb": "",
+      "genero": "Terror",
+      "id": 14
+    },
+    {
+      "titulo": "teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "teste123",
+      "nota": 0.2,
+      "urlIMDb": "",
+      "genero": "Terror",
+      "id": 15
+    },
+    {
+      "titulo": "test",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "test135",
+      "nota": 1,
+      "urlIMDb": "",
+      "genero": "Drama",
+      "id": 16
+    },
+    {
+      "titulo": "tetetetete",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "aaaa",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Ficção científica",
+      "id": 17
+    },
+    {
+      "titulo": "teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-06-17T03:00:00.000Z",
+      "descricao": "teste",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Ficção científica",
+      "id": 18
+    },
+    {
+      "titulo": "teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "a",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Comédia",
+      "id": 19
+    },
+    {
+      "titulo": "Teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "teste123",
+      "nota": 4.6,
+      "urlIMDb": "",
+      "genero": "Drama",
+      "id": 20
+    },
+    {
+      "titulo": "Teste1",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "teste123",
+      "nota": 0.3,
+      "urlIMDb": "",
+      "genero": "Ação",
+      "id": 21
+    },
+    {
+      "titulo": "teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "aaa",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Ficção científica",
+      "id": 22
+    },
+    {
+      "titulo": "Teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "aaa",
+      "nota": 5,
+      "urlIMDb": "",
+      "genero": "Ficção científica",
+      "id": 23
+    },
+    {
+      "titulo": "Teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "teset123",
+      "nota": 5,
+      "urlIMDb": "",
+      "genero": "Romance",
+      "id": 24
+    },
+    {
+      "titulo": "teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "aaa",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Comédia",
+      "id": 25
+    },
+    {
+      "titulo": "Teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "a",
+      "nota": 1,
+      "urlIMDb": "",
+      "genero": "Terror",
+      "id": 26
+    },
+    {
+      "titulo": "aA",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "a",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Ficção científica",
+      "id": 27
+    },
+    {
+      "titulo": "teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-31T03:00:00.000Z",
+      "descricao": "aaaa",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Terror",
+      "id": 28
+    },
+    {
+      "titulo": "Teste1",
+      "urlFoto": "",
+      "dtLancamento": "2021-05-04T03:00:00.000Z",
+      "descricao": "teste",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Aventura",
+      "id": 29
     }
   ]
 }
