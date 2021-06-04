@@ -118,187 +118,7 @@
       "nota": 7,
       "urlIMDb": "https://www.imdb.com/title/tt3228774/?ref_=hm_inth_tt_i_3",
       "genero": "Comédia",
-      "id": 12
-    },
-    {
-      "titulo": "Cruella",
-      "urlFoto": "https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
-      "dtLancamento": "2021-06-03T03:00:00.000Z",
-      "descricao": "A live-action prequel feature film following a young Cruella de Vil.",
-      "nota": 7,
-      "urlIMDb": "https://www.imdb.com/title/tt3228774/?ref_=hm_inth_tt_i_3",
-      "genero": "Comédia",
       "id": 13
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "teste123",
-      "nota": 0.2,
-      "urlIMDb": "",
-      "genero": "Terror",
-      "id": 14
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "teste123",
-      "nota": 0.2,
-      "urlIMDb": "",
-      "genero": "Terror",
-      "id": 15
-    },
-    {
-      "titulo": "test",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "test135",
-      "nota": 1,
-      "urlIMDb": "",
-      "genero": "Drama",
-      "id": 16
-    },
-    {
-      "titulo": "tetetetete",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "aaaa",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Ficção científica",
-      "id": 17
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-06-17T03:00:00.000Z",
-      "descricao": "teste",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Ficção científica",
-      "id": 18
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "a",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Comédia",
-      "id": 19
-    },
-    {
-      "titulo": "Teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "teste123",
-      "nota": 4.6,
-      "urlIMDb": "",
-      "genero": "Drama",
-      "id": 20
-    },
-    {
-      "titulo": "Teste1",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "teste123",
-      "nota": 0.3,
-      "urlIMDb": "",
-      "genero": "Ação",
-      "id": 21
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "aaa",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Ficção científica",
-      "id": 22
-    },
-    {
-      "titulo": "Teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "aaa",
-      "nota": 5,
-      "urlIMDb": "",
-      "genero": "Ficção científica",
-      "id": 23
-    },
-    {
-      "titulo": "Teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "teset123",
-      "nota": 5,
-      "urlIMDb": "",
-      "genero": "Romance",
-      "id": 24
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "aaa",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Comédia",
-      "id": 25
-    },
-    {
-      "titulo": "Teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "a",
-      "nota": 1,
-      "urlIMDb": "",
-      "genero": "Terror",
-      "id": 26
-    },
-    {
-      "titulo": "aA",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "a",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Ficção científica",
-      "id": 27
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-31T03:00:00.000Z",
-      "descricao": "aaaa",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Terror",
-      "id": 28
-    },
-    {
-      "titulo": "Teste1",
-      "urlFoto": "",
-      "dtLancamento": "2021-05-04T03:00:00.000Z",
-      "descricao": "teste",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Aventura",
-      "id": 29
-    },
-    {
-      "titulo": "Raya e o Último Dragão",
-      "urlFoto": "https://www.imdb.com/title/tt5109280/mediaviewer/rm2414269697?ref_=tt_ov_i",
-      "dtLancamento": "2021-03-05T03:00:00.000Z",
-      "descricao": "In a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
-      "nota": 7.4,
-      "urlIMDb": "https://www.imdb.com/title/tt5109280/?ref_=hm_tpks_tt_t_4_pd_tp1_cp",
-      "genero": "Aventura",
-      "id": 30
     },
     {
       "titulo": "Raya e o Último Dragão",
@@ -311,24 +131,14 @@
       "id": 31
     },
     {
-      "titulo": "filme sem descrição e foto",
-      "urlFoto": "",
-      "dtLancamento": "2021-06-02T03:00:00.000Z",
-      "descricao": "",
-      "nota": 10,
-      "urlIMDb": "",
-      "genero": "Terror",
+      "titulo": "Pretty Guardian Sailor Moon Eternal: O Filme",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BZTY1Mzg0YjctOTlmYi00MjhhLTllZmItYTA2Y2Y3ZTdkNmY5XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-06-03T03:00:00.000Z",
+      "descricao": "When a dark power enshrouds the Earth after a total solar eclipse, the scattered Sailor Guardians must reunite to bring light back into the world.",
+      "nota": 8.1,
+      "urlIMDb": "https://www.imdb.com/title/tt10635042/?ref_=nv_sr_srsg_6",
+      "genero": "Ação",
       "id": 32
-    },
-    {
-      "titulo": "test1111",
-      "urlFoto": "",
-      "dtLancamento": "2021-06-02T03:00:00.000Z",
-      "descricao": "teste\nteste\nteste\nteste\nteste",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Ficção científica",
-      "id": 33
     }
   ]
 }
